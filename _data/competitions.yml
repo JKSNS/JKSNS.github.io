@@ -1,0 +1,11 @@
+# Competitions — Each entry becomes a card on the Archives page.
+# Entries are automatically sorted by date (newest first).
+#
+# To add a new entry, copy the template below and fill in the fields.
+# See README.md for full instructions.
+
+# - name: "Competition Name"
+#   placement: "1st Place"
+#   date: 2024-01-01
+#   image: "/assets/img/competitions/comp-photo.jpg"
+#   description: "Brief description of the experience."

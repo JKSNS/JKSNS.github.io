@@ -1,0 +1,9 @@
+# Projects — Each entry becomes a card on the Categories page.
+#
+# To add a project, copy the template below and uncomment it.
+# See README.md for details.
+
+# - name: "New Project"
+#   repo: "https://github.com/JKSNS/repo-name"
+#   description: "Short description of the project."
+#   image: "/assets/img/projects/project-name.png"
